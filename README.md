@@ -1,7 +1,7 @@
-# 🚀 SHABAN-BAILEYS
+# SHABAN-BAILEYS PRO
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/shizothetechie/database/refs/heads/main/image/shizo.png" width="350px">
+  <img src="https://ik.imagekit.io/mrshaban/IMG-20250811-WA0058.jpg" width="350px">
 
   <br>
   
