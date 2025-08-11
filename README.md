@@ -87,7 +87,7 @@ const { default: makeWASocket } = require("Shaban-baileys")
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=SHABAN%20BAIYLES&animation=blinking" width="100%">
 </div>
 
 ## ✨ | FEATURE SHOWCASE
